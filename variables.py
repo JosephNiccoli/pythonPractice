@@ -116,6 +116,17 @@ names2.reverse()
 print(names2)
 
 # find the length of the list len()
-print(len(names2))
+print(len(names2)) 
 
 
+# Chapter 4 (for loops)
+
+for name in names2: print(name)
+
+# 9/18/2020
+for name in names:
+     print(f"my family member {name.title()} is amazing")
+     print(f"my family member {name.title()} is just wow")
+
+print("that was a lot of fun using the for loop")
+ 
